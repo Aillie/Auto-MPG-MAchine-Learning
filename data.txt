@@ -1,0 +1,15 @@
+Features
+ - Car name is unique values for each instance
+ - Horsepower is an object type (have 6 "?" in it)
+ - Origin/Cylinders/model year are multi-valued discrete features
+ - Cylinders and Displacement are similar and have similar correlation towards mpg
+ - Create Cylinder displacement feature in a copy of the dataset
+
+ Dimensions
+  - 398 samples and 9 features
+
+skew
+ - fix skew
+
+ Null values
+  - None
